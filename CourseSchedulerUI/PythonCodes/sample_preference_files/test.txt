@@ -1,0 +1,6 @@
+Teacher 1 (stuff): Course 1
+Teacher 2: Course 5, Course 3
+----
+Course 1: Student 1, John Doe # Moar comment
+Course 3: Student 2, John Doe # Moar comment
+Course 5: John Doe # not offered

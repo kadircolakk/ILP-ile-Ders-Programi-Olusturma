@@ -1,0 +1,5 @@
+Ahmet: Algoritma
+Mehmet: Matematik
+----
+Algoritma: Kadir, Kerim
+Matematik: Kadir, Kerim
