@@ -45,4 +45,4 @@ python -m pip install progressbar
 
 Son olarak uygulamamızı Visual Studio  ile açıp çalıştırabiliriz.
 
-•	Solver olarak  PULP_CBC_CMD kullanılmıştır.Ancak solve_schedule.py dosyasında 266. satırdaki #print(pl.pulpTestAll()) açarsanız yada diğer yöntemlerle (dosya konumu üzerinden ulaşmak gibi) kendi sisteminizde hangi solver'ı seçebileceğinizi görüp istediğiniz solver'ı set edebilirsiniz.
+•	Solver olarak  PULP_CBC_CMD kullanılmıştır.Ancak solve_schedule.py dosyasında 266. satırdaki #print(pl.pulpTestAll()) açarsanız yada diğer yöntemlerle (dosya konumu üzerinden ulaşmak gibi) kendi sisteminizde hangi solver'ı seçebileceğinizi görüp istediğiniz solver'ı set edebilirsiniz.Son olarak uygulamamızı Visual Studio  ile açıp çalıştırabiliriz.
